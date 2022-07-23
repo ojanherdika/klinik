@@ -50,6 +50,22 @@
               </p>
             </a>
           </li>
+          <li class="nav-item">
+            <a href="{{route('obat.index')}}" class="nav-link">
+              <i class="nav-icon fas fa-th"></i>
+              <p>
+                Data Obat
+              </p>
+            </a>
+          </li>
+          <li class="nav-item">
+            <a href="#" class="nav-link">
+              <i class="nav-icon fas fa-th"></i>
+              <p>
+                Tindakan
+              </p>
+            </a>
+          </li>
         </ul>
       </nav>
       <!-- /.sidebar-menu -->

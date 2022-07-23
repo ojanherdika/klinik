@@ -21,3 +21,4 @@ Route::get('/admin', function () {
     return view('admin.index');
 });
 Route::resource('pegawai', 'PegawaiController');
+Route::resource('obat', 'ObatController');
