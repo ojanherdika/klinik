@@ -62,9 +62,15 @@
             <a href="{{route('tindakan.index')}}" class="nav-link">
               <i class="nav-icon fas fa-th"></i>
               <p>
-                Tindakan
+                Data Tindakan
               </p>
             </a>
+            <a href="{{route('wilayah.index')}}" class="nav-link">
+                <i class="nav-icon fas fa-th"></i>
+                <p>
+                  Data Wilayah
+                </p>
+              </a>
           </li>
         </ul>
       </nav>

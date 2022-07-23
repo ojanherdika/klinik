@@ -23,3 +23,4 @@ Route::get('/admin', function () {
 Route::resource('pegawai', 'PegawaiController');
 Route::resource('obat', 'ObatController');
 Route::resource('tindakan', 'TindakanController');
+Route::resource('wilayah', 'WilayahController');
